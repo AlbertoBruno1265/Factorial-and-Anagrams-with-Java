@@ -1,7 +1,13 @@
+import Classes.Factorial;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println();
-    }
-    
+        Factorial test = new Factorial();
+
+        int result;
+
+        result = test.fatorial(2);
+
+        System.out.println(result);
+    }    
 }
