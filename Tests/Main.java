@@ -6,7 +6,11 @@ public class Main {
 
         int result;
 
-        result = test.fatorial(2);
+        result = test.fatorial(5);
+
+        System.out.println(result);
+        
+        result = test.circlar(5);
 
         System.out.println(result);
     }    

@@ -10,4 +10,10 @@ public class Factorial {
         }
         return result;
     }
+
+    public int circlar(int number)
+    {
+        number--;
+        return fatorial(number);
+    }
 }
