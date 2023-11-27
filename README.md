@@ -6,10 +6,10 @@ It's the same thing that i made [here](https://github.com/AlbertoBruno1265/Permu
 
 I'm doing this to train and improve my OOP skills.
 ## 🎯 Goals:
-- [ ] Create Factorial Class
-   - [ ] Create simple Factorial method
-   - [ ] Create Factorial with repetition method
-   - [ ] Crete circular Factorial method
+- [X] Create Factorial Class
+   - [X] Create simple Factorial method
+   - [X] Create Factorial with repetition method
+   - [X] Crete circular Factorial method
 - [ ] Create Anagrams Class
    - [ ] Create count of repeated letter method
    - [ ] Create random anagrams genaration method
